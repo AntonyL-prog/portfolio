@@ -215,6 +215,13 @@ p {
     border-radius: 10px;
 }
 
+
+audio{
+    padding: 10px;
+    margin: 10px;
+}
+
+
 @media screen and (max-width: 600px) {
     html {
         flex-direction: row;
